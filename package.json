@@ -1,0 +1,23 @@
+{
+  "name": "hyper-day",
+  "version": "0.1.0",
+  "description": "Ultra minimal light theme for Hyper terminal.",
+  "main": "index.js",
+  "repository": "saadq/hyper-day",
+  "author": "Saad Quadri",
+  "license": "MIT",
+  "keywords": [
+    "hyper",
+    "theme",
+    "light",
+    "day",
+    "white",
+    "minimal"
+  ],
+  "scripts": {
+    "test": "lynt"
+  },
+  "devDependencies": {
+    "lynt": "^0.2.0"
+  }
+}
