@@ -1,6 +1,6 @@
 {
   "name": "hyper-day",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Ultra minimal light theme for Hyper terminal.",
   "main": "index.js",
   "repository": "saadq/hyper-day",
